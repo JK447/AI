@@ -6,7 +6,7 @@ from transformers import GPT2LMHeadModel, GPT2Tokenizer
 
 FEEDBACK_FILE = 'feedbacks.txt'
 AI_NAME_FILE = 'ai_name.txt'
-API_KEY = "1c276a9b3c90b5ff58274df27db704df"
+API_KEY = "*************"
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?q={}&appid={}&units=metric&lang=ja"
 
 # 日本語の県名から英語の都市名へのマッピング
